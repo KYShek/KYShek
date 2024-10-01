@@ -1,8 +1,6 @@
 ### Hi I'm KinYu Shek(石) 👋
 
-I'm an undergraduate student in Shanghai University.
-
-- 📟 Major in Communication Engineering.
+- 🚗 AUTOSAR Software Engineer.
 
 - ℹ️ Blog: https://kyshek.github.io (Lang: ZH-CN)
 
